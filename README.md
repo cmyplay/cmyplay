@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cmyplay
+- 👀 I’m interested in physical computing, IoT, hacking, and making.
+- 🌱 I’m currently learning Python, PyQT5, Tkinter.
+- 💞️ I’m trying to figure out how to use the Apple Music API
